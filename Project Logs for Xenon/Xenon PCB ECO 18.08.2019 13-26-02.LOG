@@ -1,0 +1,92 @@
+Change Component Designator: OldDesignator= RX NewDesignator=RX
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=+5V Pin=J2-3
+Added Pin To Net: NetName=+5V Pin=J2-4
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetRX_2
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetTX_2
+Added Pin To Net: NetName=A1 Pin=J3-1
+Added Pin To Net: NetName=A1 Pin=U1-39
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=J3-2
+Added Pin To Net: NetName=A2 Pin=U1-38
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=J3-3
+Added Pin To Net: NetName=A3 Pin=U1-37
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=J3-4
+Added Pin To Net: NetName=A4 Pin=U1-36
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=J3-5
+Added Pin To Net: NetName=A5 Pin=U1-33
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=J3-6
+Added Pin To Net: NetName=A6 Pin=U1-32
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=J3-7
+Added Pin To Net: NetName=A7 Pin=U1-31
+Added Net: Name=A7
+Added Pin To Net: NetName=A8 Pin=J3-8
+Added Pin To Net: NetName=A8 Pin=U1-30
+Added Net: Name=A8
+Added Pin To Net: NetName=A9 Pin=J3-9
+Added Pin To Net: NetName=A9 Pin=U1-27
+Added Net: Name=A9
+Added Pin To Net: NetName=A10 Pin=J3-10
+Added Pin To Net: NetName=A10 Pin=U1-26
+Added Net: Name=A10
+Added Pin To Net: NetName=CS Pin=J2-8
+Added Pin To Net: NetName=CS Pin=U1-3
+Added Net: Name=CS
+Added Pin To Net: NetName=D1 Pin=J1-1
+Added Pin To Net: NetName=D1 Pin=U1-19
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=J1-2
+Added Pin To Net: NetName=D2 Pin=U1-18
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=J1-3
+Added Pin To Net: NetName=D3 Pin=U1-17
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=J1-4
+Added Pin To Net: NetName=D4 Pin=U1-16
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=J1-5
+Added Pin To Net: NetName=D5 Pin=U1-13
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=J1-6
+Added Pin To Net: NetName=D6 Pin=U1-12
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=J1-7
+Added Pin To Net: NetName=D7 Pin=U1-9
+Added Net: Name=D7
+Added Pin To Net: NetName=D8 Pin=J1-8
+Added Pin To Net: NetName=D8 Pin=U1-8
+Added Net: Name=D8
+Added Pin To Net: NetName=D9 Pin=J1-9
+Added Pin To Net: NetName=D9 Pin=U1-7
+Added Net: Name=D9
+Added Pin To Net: NetName=D10 Pin=J1-10
+Added Pin To Net: NetName=D10 Pin=U1-6
+Added Net: Name=D10
+Added Pin To Net: NetName=EXT_RXD Pin=J2-9
+Added Pin To Net: NetName=EXT_RXD Pin=U1-11
+Added Net: Name=EXT_RXD
+Added Pin To Net: NetName=EXT_TXD Pin=J2-10
+Added Pin To Net: NetName=EXT_TXD Pin=U1-10
+Added Net: Name=EXT_TXD
+Added Pin To Net: NetName=MISO Pin=J2-6
+Added Pin To Net: NetName=MISO Pin=U1-1
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=J2-5
+Added Pin To Net: NetName=MOSI Pin=U1-48
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCK Pin=J2-7
+Added Pin To Net: NetName=SCK Pin=U1-2
+Added Net: Name=SCK
+Added Member To Class: ClassName=Xenon Member=Component C8 02016D104KAT2A
+Added Member To Class: ClassName=Xenon Member=Component R3 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Xenon Member=Component RX LED Red
+Added Member To Class: ClassName=Xenon Member=Component U2 FTDI
+Added Room: Name=Xenon

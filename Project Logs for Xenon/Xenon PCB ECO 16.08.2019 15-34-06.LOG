@@ -1,0 +1,44 @@
+Added Component: Designator=D(L0603 RED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=D(L0603 RED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=D(L0603 RED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=D(L0603 RED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=D(L0603 RED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=D(L0603 RED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=D(L0603 RED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=J(Header 2x5 1.27mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW(KSC222G LFS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW(KSC222G LFS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U(FT231XQ-R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U(ATMEGA4809-MFR)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component J Header 2x3
+Added Member To Class: ClassName=Xenon Member=Component SW KSC222G LFS
+Added Member To Class: ClassName=Xenon Member=Component SW KSC222G LFS
+Added Member To Class: ClassName=Xenon Member=Component U FTDI
+Added Member To Class: ClassName=Xenon Member=Component U ATmega4809
+Added Room: Name=Xenon

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=EXT_RXD Pin=J2-9
+Removed Pin From Net: NetName=EXT_TXD Pin=J2-10
+Added Pin To Net: NetName=EXT_TXD Pin=J2-9
+Added Pin To Net: NetName=EXT_RXD Pin=J2-10
+Added Room: Name=Xenon

@@ -1,0 +1,56 @@
+Added Component: Designator=R2(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=LED_1 Pin=D1-1
+Added Pin To Net: NetName=LED_1 Pin=U1-20
+Added Net: Name=LED_1
+Added Pin To Net: NetName=LED_2 Pin=D2-1
+Added Pin To Net: NetName=LED_2 Pin=U1-21
+Added Net: Name=LED_2
+Added Pin To Net: NetName=LED_3 Pin=D3-1
+Added Pin To Net: NetName=LED_3 Pin=U1-22
+Added Net: Name=LED_3
+Added Pin To Net: NetName=LED_4 Pin=D4-1
+Added Pin To Net: NetName=LED_4 Pin=U1-23
+Added Net: Name=LED_4
+Added Pin To Net: NetName=LED_5 Pin=D5-1
+Added Pin To Net: NetName=LED_5 Pin=U1-24
+Added Net: Name=LED_5
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R2-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R3-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R4-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R5-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R6-1
+Added Net: Name=NetD5_2
+Added Member To Class: ClassName=Xenon Member=Component R2 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Xenon Member=Component R3 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Xenon Member=Component R4 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Xenon Member=Component R5 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Xenon Member=Component R6 CPF-A-0603B100KE1
+Added Room: Name=Xenon

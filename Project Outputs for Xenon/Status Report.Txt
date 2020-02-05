@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Xenon.PcbDoc]
+   Generated File[Xenon.TXT]
+   Generated File[Xenon.LDP]
+   Generated File[Xenon.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 02:28:16 On 19.08.2019

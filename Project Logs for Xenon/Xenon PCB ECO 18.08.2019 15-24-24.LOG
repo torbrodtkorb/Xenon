@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=FTDI NewDesignator=U2
+Change Component Designator: OldDesignator=USB NewDesignator=J4
+Added Pin To Net: NetName=+5V Pin=C1-2
+Added Pin To Net: NetName=+5V Pin=C2-2
+Added Pin To Net: NetName=+5V Pin=C3-2
+Added Pin To Net: NetName=+5V Pin=U1-14
+Added Pin To Net: NetName=+5V Pin=U1-28
+Added Pin To Net: NetName=+5V Pin=U1-42
+Added Member To Class: ClassName=Xenon Member=Component C3 02016D104KAT2A
+Added Member To Class: ClassName=Xenon Member=Component R2 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Xenon Member=Component R3 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Xenon Member=Component R4 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Xenon Member=Component R5 CPF-A-0603B100KE1
+Added Room: Name=Xenon

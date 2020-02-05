@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=A10 Pin=U2-44
+Removed Pin From Net: NetName=GND Pin=U2-49
+Added Pin To Net: NetName=A10 Pin=U2-26
+Added Member To Class: ClassName=Xenon Member=Component C2 293D106X9020C2TE3
+Added Room: Name=Xenon

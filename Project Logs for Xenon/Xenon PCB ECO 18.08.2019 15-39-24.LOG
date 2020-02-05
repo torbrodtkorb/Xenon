@@ -1,0 +1,42 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C3 NewDesignator=C5
+Change Component Designator: OldDesignator=C4 NewDesignator=C12
+Change Component Designator: OldDesignator=C5 NewDesignator=C1
+Change Component Designator: OldDesignator=EXT1 NewDesignator=EXT3
+Change Component Designator: OldDesignator=EXT3 NewDesignator=EXT1
+Change Component Designator: OldDesignator=J4 NewDesignator=J1
+Change Component Designator: OldDesignator=J5 NewDesignator=J2
+Change Component Designator: OldDesignator=R1 NewDesignator=R10
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R3 NewDesignator=R6
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R4 NewDesignator=R7
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R5 NewDesignator=R8
+Change Component Designator: OldDesignator=R6 NewDesignator=R9
+Change Component Designator: OldDesignator=RX NewDesignator=RX1
+Change Component Designator: OldDesignator=TX NewDesignator=TX1
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Added Component: Designator=C2(293D106X9020C2TE3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetRX_2 New Net Name=NetRX1_2
+Change Net Name : Old Net Name=NetTX_2 New Net Name=NetTX1_2
+Added Member To Class: ClassName=Xenon Member=Component C12 02016D104KAT2A
+Added Member To Class: ClassName=Xenon Member=Component R7 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Xenon Member=Component R8 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Xenon Member=Component R9 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Xenon Member=Component R10 CPF-A-0603B100KE1
+Added Room: Name=Xenon

@@ -1,0 +1,18 @@
+Added Component: Designator=J(Header 1x12 2.54mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J(Header 1x12 2.54mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J(Header 1x5 2.54mm)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component J Header
+Added Member To Class: ClassName=Xenon Member=Component J Header
+Added Member To Class: ClassName=Xenon Member=Component J Header 2x3
+Added Member To Class: ClassName=Xenon Member=Component SW KSC222G LFS
+Added Member To Class: ClassName=Xenon Member=Component U FTDI
+Added Room: Name=Xenon

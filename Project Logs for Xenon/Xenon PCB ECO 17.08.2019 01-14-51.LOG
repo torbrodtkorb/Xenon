@@ -1,0 +1,111 @@
+Change Component Footprint: Designator=J Old Footprint=Header 1x12 2.54mm New Footprint=Header 1x10 2.54mm
+Change Component Footprint: Designator=J Old Footprint=Header 1x12 2.54mm New Footprint=Header 1x10 2.54mm
+Added Component: Designator=C(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "47pF"; VariantName = "[No Variations]"
+Added Component: Designator=C(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "47pF"; VariantName = "[No Variations]"
+Added Component: Designator=C(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4.7pF"; VariantName = "[No Variations]"
+Added Component: Designator=C(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=D(L0603 RED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=D(L0603 RED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=J(Header 1x5 2.54mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J(Header 1x10 2.54mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "27R"; VariantName = "[No Variations]"
+Added Component: Designator=R(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "270R"; VariantName = "[No Variations]"
+Added Component: Designator=R(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "27R"; VariantName = "[No Variations]"
+Added Component: Designator=R(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "270R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C-2
+Added Pin To Net: NetName=+5V Pin=C-2
+Added Pin To Net: NetName=+5V Pin=C-2
+Added Pin To Net: NetName=+5V Pin=C-2
+Added Pin To Net: NetName=+5V Pin=J-1
+Added Pin To Net: NetName=+5V Pin=R-2
+Added Pin To Net: NetName=+5V Pin=R-2
+Added Pin To Net: NetName=+5V Pin=U-12
+Added Net: Name=+5V
+Added Pin To Net: NetName=GND Pin=C-1
+Added Pin To Net: NetName=GND Pin=C-1
+Added Pin To Net: NetName=GND Pin=C-1
+Added Pin To Net: NetName=GND Pin=C-1
+Added Pin To Net: NetName=GND Pin=C-1
+Added Pin To Net: NetName=GND Pin=C-1
+Added Pin To Net: NetName=GND Pin=C-1
+Added Pin To Net: NetName=GND Pin=J-5
+Added Pin To Net: NetName=GND Pin=U-3
+Added Pin To Net: NetName=GND Pin=U-13
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC_2 Pin=C-2
+Added Pin To Net: NetName=NetC_2 Pin=U-10
+Added Pin To Net: NetName=NetC_2 Pin=U-11
+Added Pin To Net: NetName=NetC_2 Pin=U-20
+Added Net: Name=NetC_2
+Added Pin To Net: NetName=NetD_1 Pin=D-1
+Added Pin To Net: NetName=NetD_1 Pin=R-1
+Added Net: Name=NetD_1
+Added Pin To Net: NetName=NetD_2 Pin=D-2
+Added Pin To Net: NetName=NetD_2 Pin=U-7
+Added Net: Name=NetD_2
+Added Pin To Net: NetName=NetR_2 Pin=R-2
+Added Pin To Net: NetName=NetR_2 Pin=U-9
+Added Net: Name=NetR_2
+Added Pin To Net: NetName=USB_RXD Pin=U-17
+Added Net: Name=USB_RXD
+Added Pin To Net: NetName=USB_TXD Pin=U-1
+Added Net: Name=USB_TXD
+Added Member To Class: ClassName=Xenon Member=Component C 02016D104KAT2A
+Added Member To Class: ClassName=Xenon Member=Component C 02016D104KAT2A
+Added Member To Class: ClassName=Xenon Member=Component C 02016D104KAT2A
+Added Member To Class: ClassName=Xenon Member=Component C 02016D104KAT2A
+Added Member To Class: ClassName=Xenon Member=Component C 02016D104KAT2A
+Added Member To Class: ClassName=Xenon Member=Component C 02016D104KAT2A
+Added Member To Class: ClassName=Xenon Member=Component C 02016D104KAT2A
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component D LED Red
+Added Member To Class: ClassName=Xenon Member=Component J Header 2x3
+Added Member To Class: ClassName=Xenon Member=Component J Header
+Added Member To Class: ClassName=Xenon Member=Component J USB micro
+Added Member To Class: ClassName=Xenon Member=Component J Header
+Added Member To Class: ClassName=Xenon Member=Component J Header
+Added Member To Class: ClassName=Xenon Member=Component J Header
+Added Member To Class: ClassName=Xenon Member=Component R CPF-A-0603B100KE1
+Added Member To Class: ClassName=Xenon Member=Component R CPF-A-0603B100KE1
+Added Member To Class: ClassName=Xenon Member=Component R CPF-A-0603B100KE1
+Added Member To Class: ClassName=Xenon Member=Component R CPF-A-0603B100KE1
+Added Member To Class: ClassName=Xenon Member=Component SW KSC222G LFS
+Added Member To Class: ClassName=Xenon Member=Component U FTDI
+Added Room: Name=Xenon
